@@ -1,0 +1,7 @@
+{
+  "port": "COM3",
+  "baudRate": 115200,
+  "delayMs": 200,
+  "messageTemplate": "pager:{id}",
+  "lineEnding": "\n"
+}

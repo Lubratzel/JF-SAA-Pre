@@ -1,0 +1,28 @@
+<svg width="56" height="26" viewBox="0 0 56 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="33.2128" y="2.44682" width="21.9668" height="16.9756" rx="0.2" fill="black"/>
+<rect x="0.0726929" y="2.2485" width="32.5966" height="17.1739" rx="0.2" fill="black"/>
+<mask id="path-3-inside-1_13_145" fill="white">
+<rect x="1.88843" y="3.42183" width="8.35561" height="13.3141" rx="0.2"/>
+</mask>
+<rect x="1.88843" y="3.42183" width="8.35561" height="13.3141" rx="0.2" stroke="white" stroke-width="2" mask="url(#path-3-inside-1_13_145)"/>
+<mask id="path-4-inside-2_13_145" fill="white">
+<rect x="11.2842" y="3.42183" width="8.88789" height="11.692" rx="0.2"/>
+</mask>
+<rect x="11.2842" y="3.42183" width="8.88789" height="11.692" rx="0.2" stroke="white" stroke-width="2" mask="url(#path-4-inside-2_13_145)"/>
+<mask id="path-5-inside-3_13_145" fill="white">
+<rect x="21.527" y="3.42183" width="9.9335" height="13.3141" rx="0.2"/>
+</mask>
+<rect x="21.527" y="3.42183" width="9.9335" height="13.3141" rx="0.2" stroke="white" stroke-width="2" mask="url(#path-5-inside-3_13_145)"/>
+<mask id="path-6-inside-4_13_145" fill="white">
+<rect x="34.0869" y="3.42183" width="8.29644" height="6.30663" rx="0.2"/>
+</mask>
+<rect x="34.0869" y="3.42183" width="8.29644" height="6.30663" rx="0.2" stroke="white" stroke-width="2" mask="url(#path-6-inside-4_13_145)"/>
+<mask id="path-7-inside-5_13_145" fill="white">
+<rect x="47.9144" y="3.42183" width="7.2652" height="6.9521" rx="0.2"/>
+</mask>
+<rect x="47.9144" y="3.42183" width="7.2652" height="6.9521" rx="0.2" stroke="white" stroke-width="2" mask="url(#path-7-inside-5_13_145)"/>
+<path d="M19.6721 20.7007C19.6721 22.9716 17.7849 24.8321 15.4325 24.8321C13.0802 24.8321 11.193 22.9716 11.193 20.7007C11.193 18.4298 13.0802 16.5693 15.4325 16.5693C17.7849 16.5693 19.6721 18.4298 19.6721 20.7007Z" fill="black" stroke="white"/>
+<path d="M51.9065 21.3673C51.9065 23.6382 50.0193 25.4987 47.6669 25.4987C45.3146 25.4987 43.4274 23.6382 43.4274 21.3673C43.4274 19.0964 45.3146 17.2359 47.6669 17.2359C50.0193 17.2359 51.9065 19.0964 51.9065 21.3673Z" fill="black" stroke="white"/>
+<path d="M47.9144 1.0141C47.9144 0.453285 48.369 -0.00134277 48.9298 -0.00134277C49.4906 -0.00134277 49.9453 0.453285 49.9453 1.0141V2.24852H47.9144V1.0141Z" fill="black"/>
+<rect x="34.7628" y="11.7077" width="0.795691" height="1.41373" rx="0.2" fill="#D9D9D9"/>
+</svg>

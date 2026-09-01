@@ -1,0 +1,23 @@
+<svg width="119" height="57" viewBox="0 0 119 57" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="86.7418" y="6.14221" width="31.8974" height="36.2841" rx="0.2" fill="black"/>
+<rect x="0.852173" y="4.10132" width="83.7067" height="40.9904" rx="0.2" fill="black"/>
+<mask id="path-3-inside-1_43_34" fill="white">
+<rect x="4.12869" y="8.22644" width="18.6112" height="28.4579" rx="0.2"/>
+</mask>
+<rect x="4.12869" y="8.22644" width="18.6112" height="28.4579" rx="0.2" stroke="white" stroke-width="4" mask="url(#path-3-inside-1_43_34)"/>
+<mask id="path-4-inside-2_43_34" fill="white">
+<rect x="25.1969" y="8.22644" width="19.3954" height="24.9908" rx="0.2"/>
+</mask>
+<rect x="25.1969" y="8.22644" width="19.3954" height="24.9908" rx="0.2" stroke="white" stroke-width="4" mask="url(#path-4-inside-2_43_34)"/>
+<mask id="path-5-inside-3_43_34" fill="white">
+<rect x="47.0493" y="8.22644" width="32.763" height="28.4579" rx="0.2"/>
+</mask>
+<rect x="47.0493" y="8.22644" width="32.763" height="28.4579" rx="0.2" stroke="white" stroke-width="4" mask="url(#path-5-inside-3_43_34)"/>
+<mask id="path-6-inside-4_43_34" fill="white">
+<rect x="102.785" y="8.22644" width="15.8543" height="14.8596" rx="0.2"/>
+</mask>
+<rect x="102.785" y="8.22644" width="15.8543" height="14.8596" rx="0.2" stroke="white" stroke-width="4" mask="url(#path-6-inside-4_43_34)"/>
+<path d="M45.0455 45.0918C45.0455 49.9659 40.9044 53.991 35.7028 53.991C30.5012 53.991 26.36 49.9659 26.36 45.0918C26.36 40.2178 30.5012 36.1926 35.7028 36.1926C40.9044 36.1926 45.0455 40.2178 45.0455 45.0918Z" fill="black" stroke="white" stroke-width="2"/>
+<path d="M111.588 46.5835C111.588 51.4576 107.446 55.4827 102.245 55.4827C97.0432 55.4827 92.9021 51.4576 92.9021 46.5835C92.9021 41.7095 97.0432 37.6843 102.245 37.6843C107.446 37.6843 111.588 41.7095 111.588 46.5835Z" fill="black" stroke="white" stroke-width="2"/>
+<path d="M102.785 3.12547C102.785 1.90165 103.777 0.909546 105.001 0.909546V0.909546C106.225 0.909546 107.217 1.90165 107.217 3.12547V5.71845H102.785V3.12547Z" fill="black"/>
+</svg>

@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sqlite3 database/jfsaaa.db)",
+      "Bash(sqlite3 database/jfsaaa.db \"SELECT id, mission_mark, mission_des, isDone FROM missions ORDER BY id DESC LIMIT 5;\")",
+      "Bash(sqlite3 database/jfsaaa.db \"INSERT INTO missions \\(mission_mark, mission_des, locString, locCor, time, immediateAlarm, isDone, lat, lng, cars\\) VALUES \\('B1.01','TEST Einsatz für Tagebuch','Teststraße 1','','$\\(date +%s\\)000',0,0,'49.2396','7.6399','[]'\\);\")",
+      "Bash(sqlite3 database/jfsaaa.db \"SELECT id, mission_mark, mission_des, isDone FROM missions ORDER BY id DESC LIMIT 3;\")",
+      "Bash(xargs cat)",
+      "Bash(node check-tagebuch-debug2.mjs)",
+      "Bash(node check-tagebuch.mjs)",
+      "Bash(sqlite3 database/jfsaaa.db \"SELECT * FROM settings;\")",
+      "Bash(sqlite3 database/jfsaaa.db \"SELECT id, mission_mark, mission_des, isDone FROM missions WHERE id > 48;\")",
+      "Bash(sqlite3 database/jfsaaa.db \"SELECT COUNT\\(*\\) FROM mission_notes;\")",
+      "Bash(sqlite3 database/jfsaaa.db \"SELECT id, mission_mark, mission_des FROM missions WHERE id > 51;\")",
+      "Bash(sqlite3 database/jfsaaa.db \"ALTER TABLE mission_notes ADD COLUMN car_name TEXT;\")"
+    ]
+  }
+}
